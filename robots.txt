@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gambar-syair.github.io/kode69/sitemap.xml
